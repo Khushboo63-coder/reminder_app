@@ -1,2 +1,2 @@
-# reminder_app
-reminder_app
+# reminder_application
+reminder_application
